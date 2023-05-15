@@ -1,1 +1,1 @@
-# segitiga-angka
+# num-triangle & simple-calculator
