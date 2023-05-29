@@ -1,1 +1,1 @@
-# num-triangle & simple-calculator
+# pascal-program
